@@ -7,7 +7,7 @@
 - **Testing & CI/CD:** Jest, GitHub Actions
 ### 🚀 Мои основные проекты (Hexlet):
 
-#### 1. [Slack Clone (Чат)](ссылка_на_репозиторий) 
+#### 1. [Slack Clone (Чат)](https://github.com/sapapck/Slack-demo) 
 - **Стек:** React, RTK Query, Socket.io, React Hook Form.
 - **О проекте:** Реальное SPA-приложение с чатами, авторизацией и обновлением данных через сокеты.
 - [Живое демо](ссылка_на_деплой)
