@@ -10,12 +10,12 @@
 #### 1. [Slack Clone (Чат)](https://github.com/sapapck/Slack-demo) 
 - **Стек:** React, RTK Query, Socket.io, React Hook Form.
 - **О проекте:** Реальное SPA-приложение с чатами, авторизацией и обновлением данных через сокеты.
-- [Живое демо](ссылка_на_деплой)
+- [Живое демо](https://frontend-project-4.onrender.com/)
 
-#### 2. [RSS Aggregator](ссылка_на_репозиторий)
+#### 2. [RSS Aggregator](https://github.com/sapapck/RSS-Aggregator)
 - **Стек:** JS, API (Axios), i18next, Yup.
 - **О проекте:** Сервис для чтения новостей в реальном времени с автоматической валидацией и парсингом фидов.
-- [Живое демо](ссылка_на_деплой)
+- [Живое демо](https://rss-aggregator-rrvi.vercel.app/)
 
 #### 3. [Gendiff (Вычислитель отличий)](ссылка_на_репозиторий)
 - **Стек:** Node.js, Commander, Jest.
