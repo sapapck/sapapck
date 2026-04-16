@@ -1,4 +1,4 @@
-### Frontend Developer
+### Frontend-разработчик
 
 ### 🛠 Стек технологий:
 - **Languages:** JavaScript (ES6+), HTML5, CSS3 (Bootstrap)
