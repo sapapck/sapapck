@@ -9,7 +9,7 @@
 ### 🚀 Мои основные проекты (Hexlet):
 
 #### 1. Slack Clone (Чат)
-- **Стек:** React, RTK Query, Socket.io, React Hook Form.
+- **Стек:** React, RTK Query, Socket.io, React Hooks Form.
 - **О проекте:** Реальное SPA-приложение с чатами, авторизацией и обновлением данных через сокеты.
 - [Живое демо](https://frontend-project-4.onrender.com/) | [📂 Исходный код](https://github.com/sapapck/Slack-demo)
 
