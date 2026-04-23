@@ -1,3 +1,4 @@
+# Привет, я Исмаил!
 ### Frontend-разработчик
 
 ### 🛠 Стек технологий:
@@ -20,9 +21,11 @@
 #### 3. [Gendiff (Вычислитель отличий)](https://github.com/sapapck/Gendiff-CLI)
 - **Стек:** Node.js, Commander, Jest.
 - **О проекте:** CLI-утилита для сравнения конфигов. 100% покрытие тестами.
+- [📂 Исходный код](https://github.com/sapapck/Gendiff-CLI)
 
 #### 4. [Brain Games (Игры разума)](https://github.com/sapapck/Brain-Games)
 - **О проекте:** Мой первый опыт построения архитектуры на чистых функциях в JS.
+- [📂 Исходный код](https://github.com/sapapck/Brain-Games)
 
 ---
 
