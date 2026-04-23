@@ -2,6 +2,7 @@
 ### Frontend-разработчик
 
 ### 🛠 Стек технологий:
+![JavaScript](https://shields.io)
 - **Languages:** JavaScript (ES6+), HTML5, CSS3 (Bootstrap)
 - **Frontend:** React, Redux Toolkit, RTK Query, React Hook
 - **Tools & Environment:** Git, Webpack, Vite, NPM/Yarn
