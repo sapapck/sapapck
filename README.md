@@ -3,7 +3,7 @@
 
 ### 🛠 Стек технологий:
 - **Languages:** JavaScript (ES6+), HTML5, CSS3 (Bootstrap)
-- **Frontend:** React, Redux Toolkit, RTK Query, React Hook
+- **Frontend:** React, Redux Toolkit, RTK Query
 - **Tools & Environment:** Git, Webpack, Vite, NPM/Yarn
 - **Testing & CI/CD:** Jest, GitHub Actions
 ### 🚀 Мои основные проекты (Hexlet):
